@@ -1,0 +1,22 @@
+.letters-board {
+    display: flex;
+    gap: 12px;
+    background-color: aquamarine;
+    border: 2px solid aqua;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    padding: 12px;
+}
+
+.letter {
+    width: 55px;
+    height: 55px;
+    background-color: aliceblue;
+    border-radius: 4px;
+    border: 1px solid aqua;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
